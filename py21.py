@@ -33,8 +33,8 @@ def yirmibir():
         for cumle in sozcuk1:
             cumle+="."
             dosya1.write(cumle.capitalize())
-        dosya1.close()
-        dosya.close()
+        #dosya1.close()
+        #dosya.close()
 
 
     #okuma yapacağınız dosya içerisinde her öğrencinin adı, soyadı, vize ve final notları bulunacak. Bu dosyadan okuduğumuz bilgilerle ikinci

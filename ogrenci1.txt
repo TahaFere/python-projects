@@ -1,0 +1,5 @@
+TAHA	FERE	a	gecti
+FATMANUR	TILAVER	a	gecti
+AHMET	TOPRAK	a	gecti
+EKREM	SEVER	a	gecti
+FERDI	OZKAN	c	kaldi
