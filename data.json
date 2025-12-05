@@ -1,0 +1,10 @@
+{
+    "name":"Taha",
+    "age":25,
+    "city":"BURSA",
+    "hobbies":[
+        "kodlama",
+        "müzik",
+        "spor"
+    ]
+}

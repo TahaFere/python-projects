@@ -176,3 +176,9 @@ if(a==48):
 if(a==49):
     import py49
     py49.kırkdokuz()#numpy modülü
+if(a==50):
+    import py50
+    py50.elli()#JSON kullanımı
+if(a==51):
+    import py51
+    py51.ellibir()#json uygulaması
